@@ -27,4 +27,4 @@ He can:
   <li>Display category types</li>
 </ul>
 
-The changes made by the script are saved in real time in prodlist.dat using the pickle module.
+The changes made by the script are saved in real time in prodlist.dat
